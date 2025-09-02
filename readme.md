@@ -4,7 +4,7 @@ Este repositório contém uma atividade desenvolvida durante meu **curso de Pyth
 O objetivo é praticar conceitos aprendidos nas aulas, como lógica de programação e uso da linguagem.
 
 ## 📌 Sobre
-- Linguagem: **Python 3**
+- Linguagem: **Python **
 - Finalidade: Estudo e prática
 - Tipo: Exercício de curso
 
